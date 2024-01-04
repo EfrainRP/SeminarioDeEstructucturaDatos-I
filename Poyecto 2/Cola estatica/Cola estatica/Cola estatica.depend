@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1646720170 source:f:\usb-seminario de estructura\poyecto 2\cola estatica\cola estatica\main.cpp
+	<iostream>
+	"Queue.h"
+
+1646759334 f:\usb-seminario de estructura\poyecto 2\cola estatica\cola estatica\queue.h
+	<windows.h>
+	<ctime>
+	<string>
+	"AnyException.h"
+
+1644694512 f:\usb-seminario de estructura\poyecto 2\cola estatica\cola estatica\anyexception.h
+	<string>
+	<exception>
+
+1646720170 source:d:\usb-seminario de estructura\poyecto 2\cola estatica\cola estatica\main.cpp
+	<iostream>
+	"Queue.h"
+
+1646762410 d:\usb-seminario de estructura\poyecto 2\cola estatica\cola estatica\queue.h
+	<windows.h>
+	<ctime>
+	<string>
+	"AnyException.h"
+
+1644694512 d:\usb-seminario de estructura\poyecto 2\cola estatica\cola estatica\anyexception.h
+	<string>
+	<exception>
+

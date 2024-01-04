@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1647450496 source:c:\users\efrai\onedrive\documentos\seminario de estructura\poyecto 2\proyecto\viaje\main.cpp
+	<iostream>
+	"Data.h"
+	<cstdlib>
+	<windows.h>
+	<ctime>
+
+1647369413 source:c:\users\efrai\onedrive\documentos\seminario de estructura\poyecto 2\proyecto\viaje\data.cpp
+	"Data.h"
+
+1647129386 c:\users\efrai\onedrive\documentos\seminario de estructura\poyecto 2\proyecto\viaje\data.h
+	<iostream>
+	<random>
+	<chrono>
+	<functional>
+	<string>
+
+1646887216 source:c:\users\efrai\onedrive\documentos\seminario de estructura\poyecto 2\proyecto\viaje\pilad.cpp
+	<string>
+	"Data.h"
+
+1647369413 source:e:\documentos pc\udg materias\seminario de estructura\poyecto 2\proyecto\proyecto\viaje\data.cpp
+	"Data.h"
+
+1647129386 e:\documentos pc\udg materias\seminario de estructura\poyecto 2\proyecto\proyecto\viaje\data.h
+	<iostream>
+	<random>
+	<chrono>
+	<functional>
+	<string>
+
+1647380550 source:e:\documentos pc\udg materias\seminario de estructura\poyecto 2\proyecto\proyecto\viaje\main.cpp
+	<iostream>
+	"Data.h"
+	<cstdlib>
+	<windows.h>
+	<ctime>
+
+1646887216 source:e:\documentos pc\udg materias\seminario de estructura\poyecto 2\proyecto\proyecto\viaje\pilad.cpp
+	<string>
+	"Data.h"
+
+1647674773 source:e:\downloads\proyecto\viaje\data.cpp
+	"Data.h"
+
+1647129386 e:\downloads\proyecto\viaje\data.h
+	<iostream>
+	<random>
+	<chrono>
+	<functional>
+	<string>
+
+1647674891 source:e:\downloads\proyecto\viaje\main.cpp
+	<iostream>
+	"Data.h"
+	<cstdlib>
+	<windows.h>
+	<ctime>
+
+1646887216 source:e:\downloads\proyecto\viaje\pilad.cpp
+	<string>
+	"Data.h"
+
+1647674773 source:e:\documentos pc\udg materias\seminario de estructura\poyecto 2\proyecto\viaje\data.cpp
+	"Data.h"
+
+1647129386 e:\documentos pc\udg materias\seminario de estructura\poyecto 2\proyecto\viaje\data.h
+	<iostream>
+	<random>
+	<chrono>
+	<functional>
+	<string>
+
+1647708135 source:e:\documentos pc\udg materias\seminario de estructura\poyecto 2\proyecto\viaje\main.cpp
+	<iostream>
+	"Data.h"
+	<cstdlib>
+	<windows.h>
+	<ctime>
+
