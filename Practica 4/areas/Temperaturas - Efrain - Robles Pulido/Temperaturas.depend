@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1645055393 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas\temperaturas\main.cpp
+	<iostream>
+	"Menu.h"
+
+1645043525 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas\temperaturas\celsius.cpp
+	"Celsius.h"
+
+1645043537 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas\temperaturas\celsius.h
+
+1645044253 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas\temperaturas\kelvin.cpp
+	"Kelvin.h"
+
+1645044102 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas\temperaturas\kelvin.h
+
+1645059450 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas\temperaturas\fahrenheit.cpp
+	"Fahrenheit.h"
+
+1645044358 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas\temperaturas\fahrenheit.h
+
+1645063087 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas\temperaturas\menu.cpp
+	"Menu.h"
+
+1645062164 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas\temperaturas\menu.h
+	"Celsius.h"
+	"Kelvin.h"
+	"Fahrenheit.h"
+	<iostream>
+	<cstdlib>
+
+1645043525 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas - efrain - robles pulido\celsius.cpp
+	"Celsius.h"
+
+1645043537 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas - efrain - robles pulido\celsius.h
+
+1645059450 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas - efrain - robles pulido\fahrenheit.cpp
+	"Fahrenheit.h"
+
+1645044358 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas - efrain - robles pulido\fahrenheit.h
+
+1645044253 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas - efrain - robles pulido\kelvin.cpp
+	"Kelvin.h"
+
+1645044102 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas - efrain - robles pulido\kelvin.h
+
+1645055393 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas - efrain - robles pulido\main.cpp
+	<iostream>
+	"Menu.h"
+
+1645062164 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas - efrain - robles pulido\menu.h
+	"Celsius.h"
+	"Kelvin.h"
+	"Fahrenheit.h"
+	<iostream>
+	<cstdlib>
+
+1645063087 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 4\areas\temperaturas - efrain - robles pulido\menu.cpp
+	"Menu.h"
+

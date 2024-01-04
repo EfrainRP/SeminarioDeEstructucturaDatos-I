@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1644948118 source:d:\seminario de estructura\practica 4\areas\areas\main.cpp
+	<iostream>
+	"Triangulo.h"
+
+1644948498 source:d:\seminario de estructura\practica 4\areas\areas\triangulo.cpp
+	"Triangulo.h"
+
+1644948498 d:\seminario de estructura\practica 4\areas\areas\triangulo.h
+
+1644948950 source:d:\seminario de estructura\practica 4\areas\areas\cuadrado.cpp
+	"Cuadrado.h"
+
+1644948950 d:\seminario de estructura\practica 4\areas\areas\cuadrado.h
+
+1644948950 source:d:\seminario de estructura\practica 4\areas\areas\rectangulo.cpp
+	"Rectangulo.h"
+
+1644948950 d:\seminario de estructura\practica 4\areas\areas\rectangulo.h
+
+1644950104 source:d:\seminario de estructura\practica 4\areas\areas\poligono.cpp
+	"Poligono.h"
+
+1644949480 d:\seminario de estructura\practica 4\areas\areas\poligono.h
+
+1644948950 source:f:\seminario de estructura\practica 4\areas\areas\cuadrado.cpp
+	"Cuadrado.h"
+
+1644948950 f:\seminario de estructura\practica 4\areas\areas\cuadrado.h
+
+1644987274 source:f:\seminario de estructura\practica 4\areas\areas\main.cpp
+	<iostream>
+	"Menu.h"
+
+1644948498 f:\seminario de estructura\practica 4\areas\areas\triangulo.h
+
+1644962994 source:f:\seminario de estructura\practica 4\areas\areas\rectangulo.cpp
+	"Rectangulo.h"
+
+1644948950 f:\seminario de estructura\practica 4\areas\areas\rectangulo.h
+
+1644962994 source:f:\seminario de estructura\practica 4\areas\areas\triangulo.cpp
+	"Triangulo.h"
+
+1644966330 source:f:\seminario de estructura\practica 4\areas\areas\poligono.cpp
+	"Poligono.h"
+	<math.h>
+
+1644964760 f:\seminario de estructura\practica 4\areas\areas\poligono.h
+
+1644987538 source:f:\seminario de estructura\practica 4\areas\areas\menu.cpp
+	"Menu.h"
+
+1644984178 f:\seminario de estructura\practica 4\areas\areas\menu.h
+	"Triangulo.h"
+	"Cuadrado.h"
+	"Rectangulo.h"
+	"Poligono.h"
+	<iostream>
+	<cstdlib>
+
