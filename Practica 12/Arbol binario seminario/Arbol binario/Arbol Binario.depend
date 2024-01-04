@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1645412490 source:c:\users\efrai\onedrive\documentos\estructura\a12 - arbol\arbol binario\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1645716738 c:\users\efrai\onedrive\documentos\estructura\a12 - arbol\arbol binario\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1645400830 c:\users\efrai\onedrive\documentos\estructura\a12 - arbol\arbol binario\nombre.h
+	<iostream>
+	<string>
+
+1649334595 source:c:\users\efrai\onedrive\documentos\estructura\a12 - arbol\arbol binario\main.cpp
+	"Menu.h"
+	<iostream>
+
+1649334589 c:\users\efrai\onedrive\documentos\estructura\a12 - arbol\arbol binario\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+
+1649335062 c:\users\efrai\onedrive\documentos\estructura\a12 - arbol\arbol binario\list.h
+	<string>
+	<exception>
+
+1647960895 source:c:\users\efrai\onedrive\documentos\estructura\a12 - arbol\arbol binario\menu.cpp
+	"Menu.h"
+
+1645412216 source:c:\users\efrai\onedrive\documentos\estructura\a12 - arbol\arbol binario\nombre.cpp
+	"nombre.h"
+
+1645412490 source:c:\users\efrai\onedrive\documentos\arbol binario seminario\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1645716738 c:\users\efrai\onedrive\documentos\arbol binario seminario\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1645400830 c:\users\efrai\onedrive\documentos\arbol binario seminario\nombre.h
+	<iostream>
+	<string>
+
+1651164434 source:c:\users\efrai\onedrive\documentos\arbol binario seminario\main.cpp
+	"Menu.h"
+	<iostream>
+
+1651165325 c:\users\efrai\onedrive\documentos\arbol binario seminario\menu.h
+	"BTree.h"
+	"Info.h"
+	<iostream>
+	<random>
+	<chrono>
+	<conio.h>
+	<functional>
+
+1649335062 c:\users\efrai\onedrive\documentos\arbol binario seminario\list.h
+	<string>
+	<exception>
+
+1645412216 source:c:\users\efrai\onedrive\documentos\arbol binario seminario\nombre.cpp
+	"nombre.h"
+
+1651165995 c:\users\efrai\onedrive\documentos\arbol binario seminario\btree.h
+	<iostream>
+	<string>
+	<exception>
+
+1651174506 c:\users\efrai\onedrive\documentos\arbol binario seminario\info.h
+	"Nombre.h"
+
+1651174506 source:c:\users\efrai\onedrive\documentos\arbol binario seminario\info.cpp
+	"info.h"
+	<string>
+	<algorithm>
+
+1651172760 source:c:\users\efrai\onedrive\documentos\arbol binario seminario\menu.cpp
+	"Menu.h"
+
