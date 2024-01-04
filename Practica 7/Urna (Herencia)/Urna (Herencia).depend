@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1645724908 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\urna (herencia)\main.cpp
+	<iostream>
+	"Voto(Padre).h"
+	"Porcentaje.h"
+
+1645723382 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\urna (herencia)\voto(padre).cpp
+	"Voto(Padre).h"
+
+1645724854 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\urna (herencia)\voto(padre).h
+
+1645724797 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\urna (herencia)\porcentaje.cpp
+	"Porcentaje.h"
+
+1645724874 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\urna (herencia)\porcentaje.h
+	"Voto(Padre).h"
+

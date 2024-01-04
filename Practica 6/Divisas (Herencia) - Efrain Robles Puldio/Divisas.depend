@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1645554861 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\main.cpp
+	<iostream>
+	"Moneda.h"
+	"Peso.h"
+	"Dolar.h"
+	"Euro.h"
+	"Yen.h"
+	"Yuan.h"
+
+1645551995 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\moneda.cpp
+	"Moneda.h"
+
+1645551756 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\menu.cpp
+	"Menu.h"
+
+1645551749 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\menu.h
+
+1645551473 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\moneda.h
+
+1645552976 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\dolar.cpp
+	"Moneda.h"
+	"Dolar.h"
+
+1645552976 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\dolar.h
+	"Moneda.h"
+
+1645554277 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\peso.cpp
+	"Moneda.h"
+	"Peso.h"
+
+1645554277 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\peso.h
+	"Moneda.h"
+
+1645552976 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\euro.cpp
+	"Moneda.h"
+	"Euro.h"
+
+1645552976 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\euro.h
+	"Moneda.h"
+
+1645552976 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\yen.cpp
+	"Moneda.h"
+	"Yen.h"
+
+1645552976 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\yen.h
+	"Moneda.h"
+
+1645552976 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\yuan.cpp
+	"Moneda.h"
+	"Yuan.h"
+
+1645552976 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 6\divisas\divisas\yuan.h
+	"Moneda.h"
+
