@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1648356192 source:e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1645716738 e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1645400830 e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\nombre.h
+	<iostream>
+	<string>
+
+1647357695 source:e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\main.cpp
+	"Menu.h"
+	<iostream>
+
+1647960658 e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+
+1649123534 e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\list.h
+	<string>
+	<exception>
+
+1648414493 source:e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\menu.cpp
+	"Menu.h"
+
+1645412216 source:e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\nombre.cpp
+	"nombre.h"
+
+1649978288 source:e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\proyecto - playlist\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1649811049 e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\proyecto - playlist\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1649436163 e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\proyecto - playlist\nombre.h
+	<iostream>
+	<string>
+
+1649784837 source:e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\proyecto - playlist\main.cpp
+	"Menu.h"
+	<iostream>
+
+1650951210 e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\proyecto - playlist\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+	<cstdlib>
+	<windows.h>
+	<ctime>
+	<mmsystem.h>
+
+1650949870 e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\proyecto - playlist\list.h
+	<iostream>
+	<fstream>
+	<string>
+	<exception>
+
+1650953048 source:e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\proyecto - playlist\menu.cpp
+	"Menu.h"
+
+1649438062 source:e:\documentos pc\udg materias\seminario de estructura\proyecto 3 - playlist\proyecto - playlist\nombre.cpp
+	"nombre.h"
+
+1649350463 source:c:\users\efrai\onedrive\documentos\seminario de estructura\proyecto 3 - list\proyecto - playlist\cancion.cpp
+	"Cancion.h"
+	<string>
+	<algorithm>
+
+1649350019 c:\users\efrai\onedrive\documentos\seminario de estructura\proyecto 3 - list\proyecto - playlist\cancion.h
+	"Nombre.h"
+	<iostream>
+	<string>
+
+1649349640 c:\users\efrai\onedrive\documentos\seminario de estructura\proyecto 3 - list\proyecto - playlist\nombre.h
+	<iostream>
+	<string>
+
+1649316077 source:c:\users\efrai\onedrive\documentos\seminario de estructura\proyecto 3 - list\proyecto - playlist\main.cpp
+	"Menu.h"
+	<iostream>
+
+1649183183 c:\users\efrai\onedrive\documentos\seminario de estructura\proyecto 3 - list\proyecto - playlist\menu.h
+	"List.h"
+	"Cancion.h"
+	<iostream>
+	<conio.h>
+	<iomanip>
+	<algorithm>
+	<cstdlib>
+	<windows.h>
+	<ctime>
+
+1649353827 c:\users\efrai\onedrive\documentos\seminario de estructura\proyecto 3 - list\proyecto - playlist\list.h
+	<iostream>
+	<fstream>
+	<string>
+	<exception>
+
+1649353561 source:c:\users\efrai\onedrive\documentos\seminario de estructura\proyecto 3 - list\proyecto - playlist\menu.cpp
+	"Menu.h"
+
+1649350069 source:c:\users\efrai\onedrive\documentos\seminario de estructura\proyecto 3 - list\proyecto - playlist\nombre.cpp
+	"nombre.h"
+
