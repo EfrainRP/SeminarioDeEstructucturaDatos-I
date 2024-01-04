@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1647974778 source:c:\users\efrai\onedrive\documentos\seminario de estructura\practica 10\lista doble\lista doble\main.cpp
+	<iostream>
+	"List.h"
+
+1647974977 c:\users\efrai\onedrive\documentos\seminario de estructura\practica 10\lista doble\lista doble\list.h
+	<string>
+	<string>
+	<exception>
+
+1648097444 source:e:\documentos pc\udg materias\seminario de estructura\practica 10\lista doble\lista doble\main.cpp
+	<iostream>
+	"List.h"
+
+1648097959 e:\documentos pc\udg materias\seminario de estructura\practica 10\lista doble\lista doble\list.h
+	<string>
+	<string>
+	<exception>
+

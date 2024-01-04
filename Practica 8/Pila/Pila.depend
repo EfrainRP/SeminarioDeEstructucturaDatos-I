@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1646108770 source:f:\usb-seminario de estructura\practica 8\pila\main.cpp
+	<iostream>
+	"Stack.h"
+
+1646107810 f:\usb-seminario de estructura\practica 8\pila\stack.h
+	<string>
+	"AnyException.h"
+
+1646106434 f:\usb-seminario de estructura\practica 8\pila\anyexception.h
+	<string>
+	<exception>
+
